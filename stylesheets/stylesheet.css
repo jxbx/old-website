@@ -23,7 +23,7 @@ body {
   float: left;
   height: 120px;
   width: 260px;
-  background-image: url("images/logo.png");
+  background-image: url(images/logo.png);
 }
 
 .header-text {
@@ -38,7 +38,7 @@ body {
   margin: 30px 0 0 0;
   width: 930px;
   height: 25px;
-  background-image: url("images/line.png");
+  background-image: url(images/line.png);
 }
 
 .nav:before {
@@ -46,7 +46,7 @@ body {
   height: 23px;
   float: left;
   content: "";
-  background-image: url("images/line_left.png");
+  background-image: url(images/line_left.png);
 }
 
 .nav:after {
@@ -54,7 +54,7 @@ body {
   height: 23px;
   float: right;
   content: "";
-  background-image: url("line_right.png");
+  background-image: url(line_right.png);
  }
 
 .nav-link {
