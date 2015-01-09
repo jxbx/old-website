@@ -1,29 +1,29 @@
- body {
+ body{
   width: 100%;
   min-height: 100%;
   background-color: black;
 }
 
-.left {
+.left{
   position: static;
   width: 240px;
   height: 500px;
   margin: 50px 0 0 50px;
 }
 
-.logo {
+.logo{
   margin: 0 0 0 0;
 }
 
-.caption {
+.caption{
   margin: 40 0 40 0;
 }
 
-.mysite {
+.mysite{
   margin: 0 0 0 -2px;
 }
 
-.comiclink {
+.comiclink{
   margin: -20 0 0 0;
 }
 
