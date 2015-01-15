@@ -123,3 +123,11 @@ h2 {
   position: relative;
   top: 3px;
 }
+
+
+a:link {
+  color: #00CC99;
+
+a:visited {
+  color: #993399
+}
