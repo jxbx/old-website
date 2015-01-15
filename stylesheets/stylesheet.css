@@ -41,7 +41,7 @@ body {
   background-image: url(/images/line.png);
 }
 
-.nav:before {
+.nav::before {
   width: 8px;
   height: 23px;
   float: left;
@@ -49,12 +49,13 @@ body {
   background-image: url(/images/line_left.png);
 }
 
-.nav:after {
+.nav::after {
   width: 8px;
   height: 23px;
+  margin-top: 1px;
   float: right;
   content: "";
-  background-image: url(/line_right.png);
+  background-image: url(/images/line_right.png);
  }
 
 .nav-link {
