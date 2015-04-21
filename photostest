@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
- <link rel="stylesheet" type="text/css" href="stylesheets/photos_stylesheet.css">
+ <link rel="stylesheet" type="text/css" href="stylesheets/photos.css">
  <div class="body">
   <div class="head">
    <div class="logo"></div>
