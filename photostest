@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <link rel="stylesheet" type="text/css" href="stylesheets/photos_stylesheet.css">
+ <div class="body">
+  <div class="head">
+   <div class="logo"></div>
+
+    <div class="header-text">
+    
+My work includes comics, poster and magazine art, and illustration for packaging. To download a high resolution PDF copy of my portfolio (7.8MB) click <a href="files/Justin Bailey Portfolio.pdf" target="_blank">here</a>.
+</div>
+ </div>
+
+<div class="nav">
+
+<a href="http://www.justinbailey.net">
+<img src="/images/work.png" class="nav-link"/></a>
+
+<a href=mailto:bailey.justin@gmail.com>
+<img src="images/contact.pnge" class="nav-link"/></a>
+
+<a href="http://blog.justinbailey.net">
+<img src="images/blog.png" class="nav-link" /></a>
+
+<a href="http://photos.justinbailey.net">
+<img src="images/photography.png" class="nav-link" /></a>
+
+</div>
+
+<div class="thumbnails">
+
+<div class="thumbnail" style="background:url(images/photos/col_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/col.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/sardinia_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/sardinia.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/closeup_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/closeup.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/120_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/120.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/nd_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/nd.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/bw_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/bw.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/tts_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/tts.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/malta_thumb.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/malta.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+
+<div class="thumbnail" style="background:url(images/photos/polaroid.jpg)">
+ <a href="01.html">
+    <div class ="overlay">
+      <span class="caption"><img src="images/photos/polaroid.png" height="18px"/>
+      </span>
+    </div>
+  </a>   
+</div>
+  
+  
+</div>
+   
+<div class="nav nav-bottom">
+        <span class="footer-text">Content &copy; Justin Bailey 2015 | Design by James Fisher and Justin Bailey</span>
+      </div>
+    </div>
+  </body>
+</html>
