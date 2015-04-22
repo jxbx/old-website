@@ -1,26 +1,22 @@
-#gallery a {
-    text-decoration:none;
-    }
- 
-#gallery .item {
-    width: 200px; height: 200px; overflow: hidden;
+.thumbnail {
+    width: 300px; height: 200px; overflow: hidden;
     float: left;
     border: 5px solid #333;
     margin: 5px;
     }
  
-#gallery .item a {
+.thumbnail a {
     overflow: hidden;
     }
  
-#gallery .item a img {
+.thumbnail a img {
     height: 100%;
     align-self: center;
     }
  
 .lightbox {
     /** Hide the lightbox */
-    opacity: 0;
+    opacity: 1;
  
     /** Apply basic lightbox styling */
     position: fixed;
@@ -54,13 +50,6 @@
     box-shadow: 0px 1px 26px -3px #777777;
     }
  
-.lightbox .title {
-    margin:0;
-    padding:0 0 10px 0px;
-    border-bottom:1px #ccc solid;
-    font-size:22px;
-    }
- 
 .lightbox .content {
     display:block;
     position:relative;
@@ -75,7 +64,7 @@
     color:#858585;
     }
  
-.clear {
+.lightbox.clear {
     display:block;
     clear:both;
     }
