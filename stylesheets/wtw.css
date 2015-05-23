@@ -122,6 +122,10 @@ td {
   border-right: none;
 }
 
+#tdcomics:hover {
+  color:#33d685;
+}
+
 #ulcomics {
   font-size: 12px;
   font-weight: normal;
