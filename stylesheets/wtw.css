@@ -1,9 +1,10 @@
 .body {
   width: 1090px;
+  margin: 60px 0 0 60px;
 }
 
 iframe {
-  margin: 65px 0 60px 60px;
+  margin: 5px 0 60px 0;
 }
 
 .samples {
@@ -12,7 +13,7 @@ iframe {
   border: 4px solid #00a7e1;
   border-top: none;
   border-bottom: none;
-  margin: 60px 0 60px 0;
+  margin: 0 0 60px 0;
   padding: 0 30px 0 30px;
   -webkit-column-count: 3;
   /* Chrome, Safari, Opera */
@@ -77,7 +78,7 @@ iframe {
 .sidebar {
   width: 200px;
   float: right;
-  margin: 60px 0 0 70px;
+  margin: 0 0 0 70px;
 }
 
 table {
