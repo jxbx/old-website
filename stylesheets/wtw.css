@@ -31,15 +31,15 @@ iframe {
   column-gap: 60px;
   
   
-  -webkit-column-rule: 4px outset #00a7e1;
+  -webkit-column-rule: 4px solid outset #00a7e1;
   /* Chrome, Safari, Opera */
   
-  -moz-column-rule: 4px outset #00a7e1;
+  -moz-column-rule: 4px solid outset #00a7e1;
   /* Firefox */
   
 
   
-  column-rule: 4px outset #00a7e1;
+  column-rule: 4px solid outset #00a7e1;
 
 }
 
