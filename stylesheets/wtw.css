@@ -1,0 +1,135 @@
+.body {
+  width: 1140px;
+}
+iframe{
+  margin:5px 0 0 0;
+}
+
+.heading{
+  width: 110px;
+  font-family: 'Arvo', serif;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: justify;
+  color: #33d685;
+  border-bottom: solid 3px;
+  margin: 50px 0 50px 0 ;
+  
+}
+
+.samples {
+  float: left;
+  width: 750px;
+  border: 4px solid #00a7e1;
+  border-top: none;
+  border-bottom: none;
+  padding: 0 30px 0 30px;
+  -webkit-column-count: 3;
+  /* Chrome, Safari, Opera */
+  
+  -moz-column-count: 3;
+  /* Firefox */
+  
+  column-count: 3;
+  -webkit-column-gap: 60px;
+  /* Chrome, Safari, Opera */
+  
+  -moz-column-gap: 60px;
+  /* Firefox */
+  
+  column-gap: 60px;
+  -webkit-column-rule: 4px outset #00a7e1;
+  /* Chrome, Safari, Opera */
+  
+  -moz-column-rule: 6px outset #00a7e1;
+  /* Firefox */
+  
+  column-rule: 6px outset #00a7e1;
+}
+
+#samplelist {
+  list-style-type: none;
+  font-family: 'Arvo', serif;
+  font-size: 12px;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+}
+
+#track {
+  color: #00a7e1;
+  font-weight: bold;
+  margin: 0 0 20px 0;
+}
+
+.style1 {
+  display: inline-block;
+  color: #be4070;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0 0 20px 0;
+}
+
+.style2 {
+  display: inline-block;
+  color: #dd8a4e;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 0 0 20px 0;
+}
+
+.sidebar {
+  width: 200px;
+  float: right;
+  margin: 0 0 0 70px;
+}
+
+table {
+  font-family: 'Arvo', serif;
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  color: #d8d8d8;
+  
+  }
+  
+  table a:link {
+  text-decoration: none;
+  color: #d8d8d8;
+  }
+
+ table a:visited {
+  text-decoration: none;
+  color: #d8d8d8;
+  }
+
+table a:hover {
+      color: #33d685;
+    }
+
+th {
+  color: #00a7e1;
+  padding: 0 0 32px 0;
+}
+
+td {
+  border: 4px dotted #d8d8d8;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  padding: 29px 0 29px 0;
+}
+
+#tdcomics {
+  border: 4px dotted #d8d8d8;
+  border-left: none;
+  border-right: none;
+}
+
+#ulcomics {
+  font-size: 12px;
+  font-weight: normal;
+  margin: 15px 0 0 15px;
+  padding: 0;
+}
+
