@@ -9,19 +9,19 @@ iframe {
 
 .samples {
   float: left;
-  width: 750px;
+  width: 1022px;
   border: 4px solid #00a7e1;
   border-top: none;
   border-bottom: none;
   margin: 0 0 60px 0;
   padding: 0 30px 0 30px;
-  -webkit-column-count: 3;
+  -webkit-column-count: 4;
   /* Chrome, Safari, Opera */
   
-  -moz-column-count: 3;
+  -moz-column-count: 4;
   /* Firefox */
   
-  column-count: 3;
+  column-count: 4;
   -webkit-column-gap: 60px;
   /* Chrome, Safari, Opera */
   
