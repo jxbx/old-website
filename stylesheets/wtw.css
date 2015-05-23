@@ -1,10 +1,9 @@
 .body {
   width: 1090px;
-  padding: 0 0 0 60px;
 }
 
 iframe {
-  margin: 65px 0 60px 0;
+  margin: 65px 0 60px 60px;
 }
 
 .samples {
@@ -13,7 +12,7 @@ iframe {
   border: 4px solid #00a7e1;
   border-top: none;
   border-bottom: none;
-  margin: 60px 0 60px 0;
+  margin: 60px 0 60px 60px;
   padding: 0 30px 0 30px;
   -webkit-column-count: 3;
   /* Chrome, Safari, Opera */
