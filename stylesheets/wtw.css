@@ -112,6 +112,7 @@ iframe {
   border-left: none;
   border-right: none;
   border-top: none;
+  text-align: left;
 }
 
 .table1 th.download {
@@ -125,7 +126,6 @@ iframe {
   border-right: none;
   border-top: none;
   padding: 20px 0 20px 0;
-  text-align: left;
 }
 
 .table1 td:hover {
