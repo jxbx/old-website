@@ -1,9 +1,11 @@
-.body {
+body {
   width: 1150px;
   margin: 60px 0 0 60px;
 }
 
 iframe {
+  width: 816px;
+  height: 459px;
   margin: 5px 0 80px 0;
 }
 
@@ -29,13 +31,13 @@ iframe {
   /* Firefox */
   
   column-gap: 60px;
-  -webkit-column-rule: 4px outset #00a7e1;
+  -webkit-column-rule: 4px solid #00a7e1;
   /* Chrome, Safari, Opera */
   
-  -moz-column-rule: 6px outset #00a7e1;
+  -moz-column-rule: 4px solid #00a7e1;
   /* Firefox */
   
-  column-rule: 6px outset #00a7e1;
+  column-rule: 4px solid #00a7e1;
 }
 
 #samplelist {
