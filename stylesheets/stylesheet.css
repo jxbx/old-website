@@ -7,9 +7,7 @@ body {
 }
 
 .body {
-  margin-top: 0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 50px auto;
   width: 945px;
   min-height: 100%;
 }
