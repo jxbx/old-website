@@ -75,12 +75,12 @@ body {
   height: 200px;
 }
 
-.thumbnail img {
+.thumbnail > img {
   transition: opacity 0.25s ease-in-out;
  border: 0;
 }
 
-.thumbnail:hover img {
+.thumbnail:hover > img {
   opacity: 0.1;
 }
 
