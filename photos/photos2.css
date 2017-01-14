@@ -118,7 +118,6 @@ body {
 .lightbox:target {
 	outline: none;
 	display: block;
-  overflow: scroll;
 }
  
 .nav.nav-bottom{
